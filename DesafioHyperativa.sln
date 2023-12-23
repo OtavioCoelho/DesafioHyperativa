@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioHyperativa.Service", "DesafioHyperativa.Service\DesafioHyperativa.Service.csproj", "{5AB9952B-81E5-403C-8542-94E133ECC4E7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioHyperativa.Repository", "DesafioHyperativa.Repository\DesafioHyperativa.Repository.csproj", "{76D7544A-98AE-473E-BB13-B403CEB539DE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioHyperativa.Domain", "DesafioHyperativa.Domain\DesafioHyperativa.Domain.csproj", "{8B1B2B55-EAF1-4256-829F-67DF50D38009}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioHyperativa.API", "DesafioHyperativa.API\DesafioHyperativa.API.csproj", "{B627E1D9-3D2F-4E72-B75C-E54BE42F59F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioHyperativa.Test", "DesafioHyperativa.Test\DesafioHyperativa.Test.csproj", "{75373DB0-1F11-4025-A7B0-507D39827CE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AB9952B-81E5-403C-8542-94E133ECC4E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AB9952B-81E5-403C-8542-94E133ECC4E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AB9952B-81E5-403C-8542-94E133ECC4E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AB9952B-81E5-403C-8542-94E133ECC4E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76D7544A-98AE-473E-BB13-B403CEB539DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D7544A-98AE-473E-BB13-B403CEB539DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D7544A-98AE-473E-BB13-B403CEB539DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D7544A-98AE-473E-BB13-B403CEB539DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B1B2B55-EAF1-4256-829F-67DF50D38009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1B2B55-EAF1-4256-829F-67DF50D38009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1B2B55-EAF1-4256-829F-67DF50D38009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1B2B55-EAF1-4256-829F-67DF50D38009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B627E1D9-3D2F-4E72-B75C-E54BE42F59F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B627E1D9-3D2F-4E72-B75C-E54BE42F59F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B627E1D9-3D2F-4E72-B75C-E54BE42F59F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B627E1D9-3D2F-4E72-B75C-E54BE42F59F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75373DB0-1F11-4025-A7B0-507D39827CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75373DB0-1F11-4025-A7B0-507D39827CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75373DB0-1F11-4025-A7B0-507D39827CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75373DB0-1F11-4025-A7B0-507D39827CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24043E79-F7E0-40F4-909A-D3988E8BB072}
+	EndGlobalSection
+EndGlobal
